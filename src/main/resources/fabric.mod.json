@@ -10,7 +10,7 @@
   ],
   "contact": {
     "homepage": "https://ntzw.ru/unimap/",
-    "sources": "https://github.com/notezway/universal-minimap"
+    "sources": "https://github.com/notezway/unimap/"
   },
 
   "license": "CC0-1.0",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "ru.ntzw.unimap.UniversalMinimap"
+      "ru.ntzw.unimap.Unimap"
     ]
   },
   "mixins": [
